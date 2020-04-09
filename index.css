@@ -1,0 +1,33 @@
+body.body-background {
+    background-color: rgb(212, 212, 241);
+}
+.container.card-container {
+    margin-top: 8%;
+}
+.card.card-styling {
+    background-color: rgb(255, 254, 254);
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+    -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+    -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+    
+}
+.img-fluid.login-img {
+    margin: auto;
+    padding: 0 2rem 2rem;
+    display: block;
+    
+}
+form.signin-form {
+    max-width: 350px;
+    margin: auto;
+}
+.form-check.card-checkbox {
+    margin-top: 1.2rem;
+    margin-bottom: 1.2rem;
+}
+a.card-link {
+    text-align: center;
+    display: block;
+    font-size: 1.2rem;
+    margin-top: 0.51rem;
+}
